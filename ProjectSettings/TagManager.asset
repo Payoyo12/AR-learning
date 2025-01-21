@@ -4,11 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Sheep
-  - UI
-  - Farmer
-  - CutScene
-  - WorldspaceUI
+  - cat
+  - monocle
+  - stars
+  - modelObject
+  - Ignite
   layers:
   - Default
   - TransparentFX
@@ -16,8 +16,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - PortalWindow
+  - PortalContents
   - 
   - 
   - 
